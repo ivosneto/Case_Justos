@@ -1,0 +1,548 @@
+User_ID,Step_Name,Time_Spent_Sec,Completion_Status
+1,Add User and Car info ,86,Completed
+1,Checkout (Payment),35,Completed
+1,Confirm Coverages,138,Completed
+1,Plan Selection,293,Completed
+2,Add User and Car info ,90,Completed
+2,Checkout (Payment),68,Completed
+2,Confirm Coverages,69,Completed
+2,Plan Selection,159,Completed
+3,Add User and Car info ,88,Completed
+3,Checkout (Payment),52,Completed
+3,Confirm Coverages,90,Completed
+3,Plan Selection,141,Completed
+4,Add User and Car info ,43,Completed
+4,Checkout (Payment),36,Completed
+4,Confirm Coverages,180,Completed
+4,Plan Selection,100,Completed
+5,Add User and Car info ,97,Completed
+5,Checkout (Payment),27,Completed
+5,Confirm Coverages,250,Completed
+5,Plan Selection,100,Completed
+6,Add User and Car info ,118,Completed
+6,Checkout (Payment),34,Completed
+6,Confirm Coverages,112,Completed
+6,Plan Selection,223,Completed
+7,Add User and Car info ,90,Completed
+7,Checkout (Payment),15,Completed
+7,Confirm Coverages,53,Completed
+7,Plan Selection,316,Completed
+8,Add User and Car info ,76,Completed
+8,Checkout (Payment),20,Completed
+8,Confirm Coverages,231,Completed
+8,Plan Selection,272,Completed
+9,Add User and Car info ,68,Completed
+9,Checkout (Payment),125,Completed
+9,Confirm Coverages,138,Completed
+9,Plan Selection,191,Completed
+10,Add User and Car info ,104,Completed
+10,Checkout (Payment),125,Completed
+10,Confirm Coverages,112,Completed
+10,Plan Selection,101,Completed
+11,Add User and Car info ,76,Completed
+11,Checkout (Payment),117,Completed
+11,Confirm Coverages,87,Completed
+11,Plan Selection,153,Completed
+12,Add User and Car info ,82,Completed
+12,Checkout (Payment),11,Completed
+12,Confirm Coverages,116,Completed
+12,Plan Selection,128,Completed
+13,Add User and Car info ,86,Completed
+13,Checkout (Payment),21,Completed
+13,Confirm Coverages,59,Completed
+13,Plan Selection,299,Completed
+14,Add User and Car info ,41,Completed
+14,Checkout (Payment),148,Completed
+14,Confirm Coverages,104,Completed
+14,Plan Selection,220,Completed
+15,Add User and Car info ,52,Completed
+15,Checkout (Payment),115,Completed
+15,Confirm Coverages,230,Completed
+15,Plan Selection,136,Completed
+16,Add User and Car info ,94,Completed
+16,Checkout (Payment),29,Completed
+16,Confirm Coverages,206,Completed
+16,Plan Selection,167,Completed
+17,Add User and Car info ,47,Completed
+17,Checkout (Payment),59,Completed
+17,Confirm Coverages,66,Completed
+17,Plan Selection,350,Completed
+18,Add User and Car info ,36,Completed
+18,Checkout (Payment),31,Completed
+18,Confirm Coverages,184,Completed
+18,Plan Selection,217,Completed
+19,Add User and Car info ,61,Completed
+19,Checkout (Payment),66,Completed
+19,Confirm Coverages,171,Completed
+19,Plan Selection,246,Completed
+20,Add User and Car info ,32,Completed
+20,Checkout (Payment),15,Completed
+20,Confirm Coverages,189,Completed
+20,Plan Selection,95,Completed
+21,Add User and Car info ,43,Completed
+21,Checkout (Payment),108,Abandoned
+21,Confirm Coverages,228,Completed
+21,Plan Selection,277,Completed
+22,Add User and Car info ,112,Completed
+22,Checkout (Payment),36,Abandoned
+22,Confirm Coverages,50,Completed
+22,Plan Selection,287,Completed
+23,Add User and Car info ,73,Completed
+23,Checkout (Payment),115,Abandoned
+23,Confirm Coverages,230,Completed
+23,Plan Selection,299,Completed
+24,Add User and Car info ,100,Completed
+24,Checkout (Payment),124,Abandoned
+24,Confirm Coverages,84,Completed
+24,Plan Selection,314,Completed
+25,Add User and Car info ,106,Completed
+25,Checkout (Payment),140,Abandoned
+25,Confirm Coverages,89,Completed
+25,Plan Selection,169,Completed
+26,Add User and Car info ,97,Completed
+26,Checkout (Payment),107,Abandoned
+26,Confirm Coverages,131,Completed
+26,Plan Selection,201,Completed
+27,Add User and Car info ,72,Completed
+27,Checkout (Payment),36,Abandoned
+27,Confirm Coverages,101,Completed
+27,Plan Selection,226,Completed
+28,Add User and Car info ,59,Completed
+28,Checkout (Payment),58,Abandoned
+28,Confirm Coverages,223,Completed
+28,Plan Selection,90,Completed
+29,Add User and Car info ,76,Completed
+29,Checkout (Payment),60,Abandoned
+29,Confirm Coverages,63,Completed
+29,Plan Selection,311,Completed
+30,Add User and Car info ,81,Completed
+30,Checkout (Payment),138,Abandoned
+30,Confirm Coverages,105,Completed
+30,Plan Selection,243,Completed
+31,Add User and Car info ,85,Completed
+31,Checkout (Payment),78,Abandoned
+31,Confirm Coverages,225,Completed
+31,Plan Selection,253,Completed
+32,Add User and Car info ,94,Completed
+32,Checkout (Payment),20,Abandoned
+32,Confirm Coverages,235,Completed
+32,Plan Selection,338,Completed
+33,Add User and Car info ,113,Completed
+33,Checkout (Payment),29,Abandoned
+33,Confirm Coverages,226,Completed
+33,Plan Selection,88,Completed
+34,Add User and Car info ,99,Completed
+34,Checkout (Payment),124,Abandoned
+34,Confirm Coverages,115,Completed
+34,Plan Selection,284,Completed
+35,Add User and Car info ,62,Completed
+35,Checkout (Payment),84,Abandoned
+35,Confirm Coverages,65,Completed
+35,Plan Selection,327,Completed
+36,Add User and Car info ,50,Completed
+36,Checkout (Payment),120,Abandoned
+36,Confirm Coverages,243,Completed
+36,Plan Selection,298,Completed
+37,Add User and Car info ,60,Completed
+37,Checkout (Payment),97,Abandoned
+37,Confirm Coverages,67,Completed
+37,Plan Selection,166,Completed
+38,Add User and Car info ,76,Completed
+38,Checkout (Payment),69,Abandoned
+38,Confirm Coverages,182,Completed
+38,Plan Selection,329,Completed
+39,Add User and Car info ,45,Completed
+39,Checkout (Payment),112,Abandoned
+39,Confirm Coverages,118,Completed
+39,Plan Selection,241,Completed
+40,Add User and Car info ,102,Completed
+40,Checkout (Payment),21,Abandoned
+40,Confirm Coverages,160,Completed
+40,Plan Selection,202,Completed
+41,Add User and Car info ,48,Completed
+41,Checkout (Payment),91,Abandoned
+41,Confirm Coverages,71,Completed
+41,Plan Selection,287,Completed
+42,Add User and Car info ,59,Completed
+42,Checkout (Payment),96,Abandoned
+42,Confirm Coverages,61,Completed
+42,Plan Selection,311,Completed
+43,Add User and Car info ,70,Completed
+43,Checkout (Payment),125,Abandoned
+43,Confirm Coverages,237,Completed
+43,Plan Selection,349,Completed
+44,Add User and Car info ,87,Completed
+44,Checkout (Payment),53,Abandoned
+44,Confirm Coverages,177,Completed
+44,Plan Selection,156,Completed
+45,Add User and Car info ,83,Completed
+45,Checkout (Payment),43,Abandoned
+45,Confirm Coverages,171,Completed
+45,Plan Selection,88,Completed
+46,Add User and Car info ,69,Completed
+46,Checkout (Payment),17,Abandoned
+46,Confirm Coverages,182,Completed
+46,Plan Selection,233,Completed
+47,Add User and Car info ,87,Completed
+47,Checkout (Payment),137,Abandoned
+47,Confirm Coverages,92,Completed
+47,Plan Selection,153,Completed
+48,Add User and Car info ,102,Completed
+48,Checkout (Payment),138,Abandoned
+48,Confirm Coverages,50,Completed
+48,Plan Selection,174,Completed
+49,Add User and Car info ,59,Completed
+49,Checkout (Payment),110,Abandoned
+49,Confirm Coverages,164,Abandoned
+49,Plan Selection,338,Completed
+50,Add User and Car info ,86,Completed
+50,Confirm Coverages,61,Abandoned
+50,Plan Selection,281,Completed
+51,Add User and Car info ,110,Completed
+51,Confirm Coverages,96,Abandoned
+51,Plan Selection,120,Completed
+52,Add User and Car info ,66,Completed
+52,Confirm Coverages,162,Abandoned
+52,Plan Selection,148,Completed
+53,Add User and Car info ,49,Completed
+53,Confirm Coverages,59,Abandoned
+53,Plan Selection,111,Completed
+54,Add User and Car info ,56,Completed
+54,Confirm Coverages,219,Abandoned
+54,Plan Selection,80,Completed
+55,Add User and Car info ,106,Completed
+55,Confirm Coverages,206,Abandoned
+55,Plan Selection,125,Completed
+56,Add User and Car info ,117,Completed
+56,Confirm Coverages,104,Abandoned
+56,Plan Selection,269,Completed
+57,Add User and Car info ,96,Completed
+57,Plan Selection,14,Abandoned
+58,Add User and Car info ,115,Completed
+58,Plan Selection,14,Abandoned
+59,Add User and Car info ,31,Completed
+59,Plan Selection,14,Abandoned
+60,Add User and Car info ,117,Completed
+60,Plan Selection,20,Abandoned
+61,Add User and Car info ,114,Completed
+61,Plan Selection,18,Abandoned
+62,Add User and Car info ,63,Completed
+62,Plan Selection,11,Abandoned
+63,Add User and Car info ,65,Completed
+63,Plan Selection,13,Abandoned
+64,Add User and Car info ,62,Completed
+64,Plan Selection,5,Abandoned
+65,Add User and Car info ,98,Completed
+65,Plan Selection,6,Abandoned
+66,Add User and Car info ,35,Completed
+66,Plan Selection,10,Abandoned
+67,Add User and Car info ,108,Completed
+67,Plan Selection,13,Abandoned
+68,Add User and Car info ,51,Completed
+68,Plan Selection,10,Abandoned
+69,Add User and Car info ,117,Completed
+69,Plan Selection,16,Abandoned
+70,Add User and Car info ,108,Completed
+70,Plan Selection,6,Abandoned
+71,Add User and Car info ,41,Completed
+71,Plan Selection,11,Abandoned
+72,Add User and Car info ,116,Completed
+72,Plan Selection,20,Abandoned
+73,Add User and Car info ,86,Completed
+73,Plan Selection,13,Abandoned
+74,Add User and Car info ,114,Completed
+74,Plan Selection,6,Abandoned
+75,Add User and Car info ,40,Completed
+75,Plan Selection,6,Abandoned
+76,Add User and Car info ,51,Completed
+76,Plan Selection,8,Abandoned
+77,Add User and Car info ,114,Completed
+77,Plan Selection,16,Abandoned
+78,Add User and Car info ,97,Completed
+78,Plan Selection,13,Abandoned
+79,Add User and Car info ,79,Completed
+79,Plan Selection,9,Abandoned
+80,Add User and Car info ,38,Completed
+80,Plan Selection,11,Abandoned
+81,Add User and Car info ,84,Completed
+81,Plan Selection,19,Abandoned
+82,Add User and Car info ,39,Completed
+82,Plan Selection,6,Abandoned
+83,Add User and Car info ,62,Completed
+83,Plan Selection,9,Abandoned
+84,Add User and Car info ,78,Completed
+84,Plan Selection,20,Abandoned
+85,Add User and Car info ,108,Completed
+85,Plan Selection,10,Abandoned
+86,Add User and Car info ,85,Completed
+86,Plan Selection,11,Abandoned
+87,Add User and Car info ,102,Completed
+87,Plan Selection,5,Abandoned
+88,Add User and Car info ,84,Completed
+88,Plan Selection,13,Abandoned
+89,Add User and Car info ,95,Completed
+89,Plan Selection,11,Abandoned
+90,Add User and Car info ,56,Completed
+90,Plan Selection,16,Abandoned
+91,Add User and Car info ,70,Completed
+91,Plan Selection,16,Abandoned
+92,Add User and Car info ,68,Completed
+92,Plan Selection,18,Abandoned
+93,Add User and Car info ,50,Completed
+93,Plan Selection,12,Abandoned
+94,Add User and Car info ,41,Completed
+94,Plan Selection,14,Abandoned
+95,Add User and Car info ,74,Completed
+95,Plan Selection,10,Abandoned
+96,Add User and Car info ,71,Completed
+96,Plan Selection,13,Abandoned
+97,Add User and Car info ,89,Completed
+97,Plan Selection,12,Abandoned
+98,Add User and Car info ,32,Completed
+98,Plan Selection,14,Abandoned
+99,Add User and Car info ,53,Completed
+99,Plan Selection,17,Abandoned
+100,Add User and Car info ,67,Completed
+100,Plan Selection,5,Abandoned
+101,Add User and Car info ,67,Completed
+101,Plan Selection,5,Abandoned
+102,Add User and Car info ,120,Completed
+102,Plan Selection,19,Abandoned
+103,Add User and Car info ,85,Completed
+103,Plan Selection,7,Abandoned
+104,Add User and Car info ,113,Completed
+104,Plan Selection,5,Abandoned
+105,Add User and Car info ,95,Completed
+105,Plan Selection,12,Abandoned
+106,Add User and Car info ,59,Completed
+106,Plan Selection,17,Abandoned
+107,Add User and Car info ,67,Completed
+107,Plan Selection,6,Abandoned
+108,Add User and Car info ,72,Completed
+108,Plan Selection,10,Abandoned
+109,Add User and Car info ,36,Completed
+109,Plan Selection,7,Abandoned
+110,Add User and Car info ,85,Completed
+110,Plan Selection,13,Abandoned
+111,Add User and Car info ,39,Completed
+111,Plan Selection,20,Abandoned
+112,Add User and Car info ,72,Completed
+112,Plan Selection,5,Abandoned
+113,Add User and Car info ,43,Completed
+113,Plan Selection,7,Abandoned
+114,Add User and Car info ,114,Completed
+114,Plan Selection,18,Abandoned
+115,Add User and Car info ,79,Completed
+115,Plan Selection,13,Abandoned
+116,Add User and Car info ,37,Completed
+116,Plan Selection,10,Abandoned
+117,Add User and Car info ,46,Completed
+117,Plan Selection,9,Abandoned
+118,Add User and Car info ,32,Completed
+118,Plan Selection,12,Abandoned
+119,Add User and Car info ,36,Completed
+119,Plan Selection,15,Abandoned
+120,Add User and Car info ,111,Completed
+120,Plan Selection,12,Abandoned
+121,Add User and Car info ,38,Completed
+121,Plan Selection,12,Abandoned
+122,Add User and Car info ,63,Completed
+122,Plan Selection,10,Abandoned
+123,Add User and Car info ,36,Completed
+123,Plan Selection,9,Abandoned
+124,Add User and Car info ,39,Completed
+124,Plan Selection,16,Abandoned
+125,Add User and Car info ,103,Completed
+125,Plan Selection,20,Abandoned
+126,Add User and Car info ,78,Completed
+126,Plan Selection,16,Abandoned
+127,Add User and Car info ,82,Completed
+127,Plan Selection,11,Abandoned
+128,Add User and Car info ,81,Completed
+128,Plan Selection,15,Abandoned
+129,Add User and Car info ,108,Completed
+129,Plan Selection,9,Abandoned
+130,Add User and Car info ,117,Completed
+130,Plan Selection,10,Abandoned
+131,Add User and Car info ,111,Completed
+131,Plan Selection,13,Abandoned
+132,Add User and Car info ,104,Completed
+132,Plan Selection,16,Abandoned
+133,Add User and Car info ,116,Completed
+133,Plan Selection,18,Abandoned
+134,Add User and Car info ,64,Completed
+134,Plan Selection,12,Abandoned
+135,Add User and Car info ,71,Completed
+135,Plan Selection,19,Abandoned
+136,Add User and Car info ,75,Completed
+136,Plan Selection,15,Abandoned
+137,Add User and Car info ,78,Completed
+137,Plan Selection,20,Abandoned
+138,Add User and Car info ,77,Completed
+138,Plan Selection,16,Abandoned
+139,Add User and Car info ,58,Completed
+139,Plan Selection,11,Abandoned
+140,Add User and Car info ,116,Completed
+140,Plan Selection,15,Abandoned
+141,Add User and Car info ,101,Completed
+141,Plan Selection,17,Abandoned
+142,Add User and Car info ,39,Completed
+142,Plan Selection,9,Abandoned
+143,Add User and Car info ,98,Completed
+143,Plan Selection,19,Abandoned
+144,Add User and Car info ,112,Completed
+144,Plan Selection,14,Abandoned
+145,Add User and Car info ,110,Completed
+145,Plan Selection,15,Abandoned
+146,Add User and Car info ,73,Completed
+146,Plan Selection,10,Abandoned
+147,Add User and Car info ,107,Completed
+147,Plan Selection,8,Abandoned
+148,Add User and Car info ,61,Completed
+148,Plan Selection,15,Abandoned
+149,Add User and Car info ,78,Completed
+149,Plan Selection,7,Abandoned
+150,Add User and Car info ,94,Completed
+150,Plan Selection,10,Abandoned
+151,Add User and Car info ,84,Completed
+151,Plan Selection,13,Abandoned
+152,Add User and Car info ,62,Completed
+152,Plan Selection,12,Abandoned
+153,Add User and Car info ,46,Completed
+153,Plan Selection,6,Abandoned
+154,Add User and Car info ,74,Completed
+154,Plan Selection,15,Abandoned
+155,Add User and Car info ,49,Completed
+155,Plan Selection,13,Abandoned
+156,Add User and Car info ,78,Completed
+156,Plan Selection,9,Abandoned
+157,Add User and Car info ,56,Completed
+157,Plan Selection,9,Abandoned
+158,Add User and Car info ,78,Completed
+158,Plan Selection,14,Abandoned
+159,Add User and Car info ,83,Completed
+159,Plan Selection,10,Abandoned
+160,Add User and Car info ,85,Completed
+160,Plan Selection,20,Abandoned
+161,Add User and Car info ,74,Completed
+161,Plan Selection,6,Abandoned
+162,Add User and Car info ,107,Completed
+162,Plan Selection,13,Abandoned
+163,Add User and Car info ,52,Completed
+163,Plan Selection,5,Abandoned
+164,Add User and Car info ,79,Completed
+164,Plan Selection,13,Abandoned
+165,Add User and Car info ,117,Completed
+165,Plan Selection,13,Abandoned
+166,Add User and Car info ,85,Completed
+166,Plan Selection,19,Abandoned
+167,Add User and Car info ,41,Completed
+167,Plan Selection,16,Abandoned
+168,Add User and Car info ,99,Completed
+168,Plan Selection,15,Abandoned
+169,Add User and Car info ,55,Completed
+169,Plan Selection,15,Abandoned
+170,Add User and Car info ,58,Completed
+170,Plan Selection,19,Abandoned
+171,Add User and Car info ,93,Completed
+171,Plan Selection,12,Abandoned
+172,Add User and Car info ,84,Completed
+172,Plan Selection,13,Abandoned
+173,Add User and Car info ,119,Completed
+173,Plan Selection,7,Abandoned
+174,Add User and Car info ,115,Completed
+174,Plan Selection,11,Abandoned
+175,Add User and Car info ,44,Completed
+175,Plan Selection,9,Abandoned
+176,Add User and Car info ,77,Completed
+176,Plan Selection,14,Abandoned
+177,Add User and Car info ,93,Completed
+177,Plan Selection,13,Abandoned
+178,Add User and Car info ,43,Completed
+178,Plan Selection,13,Abandoned
+179,Add User and Car info ,55,Completed
+179,Plan Selection,13,Abandoned
+180,Add User and Car info ,81,Completed
+180,Plan Selection,8,Abandoned
+181,Add User and Car info ,60,Completed
+181,Plan Selection,20,Abandoned
+182,Add User and Car info ,95,Completed
+182,Plan Selection,5,Abandoned
+183,Add User and Car info ,63,Completed
+183,Plan Selection,9,Abandoned
+184,Add User and Car info ,59,Completed
+184,Plan Selection,8,Abandoned
+185,Add User and Car info ,92,Completed
+185,Plan Selection,6,Abandoned
+186,Add User and Car info ,62,Completed
+186,Plan Selection,6,Abandoned
+187,Add User and Car info ,42,Completed
+187,Plan Selection,17,Abandoned
+188,Add User and Car info ,54,Completed
+188,Plan Selection,12,Abandoned
+189,Add User and Car info ,36,Abandoned
+190,Add User and Car info ,77,Abandoned
+191,Add User and Car info ,71,Abandoned
+192,Add User and Car info ,96,Abandoned
+193,Add User and Car info ,88,Abandoned
+194,Add User and Car info ,58,Abandoned
+195,Add User and Car info ,85,Abandoned
+196,Add User and Car info ,18,Abandoned
+197,Add User and Car info ,93,Abandoned
+198,Add User and Car info ,48,Abandoned
+199,Add User and Car info ,71,Abandoned
+200,Add User and Car info ,84,Abandoned
+201,Add User and Car info ,80,Abandoned
+202,Add User and Car info ,6,Abandoned
+203,Add User and Car info ,49,Abandoned
+204,Add User and Car info ,63,Abandoned
+205,Add User and Car info ,60,Abandoned
+206,Add User and Car info ,7,Abandoned
+207,Add User and Car info ,30,Abandoned
+208,Add User and Car info ,85,Abandoned
+209,Add User and Car info ,6,Abandoned
+210,Add User and Car info ,64,Abandoned
+211,Add User and Car info ,49,Abandoned
+212,Add User and Car info ,50,Abandoned
+213,Add User and Car info ,14,Abandoned
+214,Add User and Car info ,6,Abandoned
+215,Add User and Car info ,63,Abandoned
+216,Add User and Car info ,87,Abandoned
+217,Add User and Car info ,27,Abandoned
+218,Add User and Car info ,87,Abandoned
+219,Add User and Car info ,23,Abandoned
+220,Add User and Car info ,97,Abandoned
+221,Add User and Car info ,71,Abandoned
+222,Add User and Car info ,14,Abandoned
+223,Add User and Car info ,51,Abandoned
+224,Add User and Car info ,91,Abandoned
+225,Add User and Car info ,22,Abandoned
+226,Add User and Car info ,25,Abandoned
+227,Add User and Car info ,55,Abandoned
+228,Add User and Car info ,27,Abandoned
+229,Add User and Car info ,48,Abandoned
+230,Add User and Car info ,93,Abandoned
+231,Add User and Car info ,21,Abandoned
+232,Add User and Car info ,71,Abandoned
+233,Add User and Car info ,20,Abandoned
+234,Add User and Car info ,43,Abandoned
+235,Add User and Car info ,85,Abandoned
+236,Add User and Car info ,71,Abandoned
+237,Add User and Car info ,82,Abandoned
+238,Add User and Car info ,28,Abandoned
+239,Add User and Car info ,73,Abandoned
+240,Add User and Car info ,33,Abandoned
+241,Add User and Car info ,52,Abandoned
+242,Add User and Car info ,43,Abandoned
+243,Add User and Car info ,16,Abandoned
+244,Add User and Car info ,16,Abandoned
+245,Add User and Car info ,71,Abandoned
+246,Add User and Car info ,80,Abandoned
+247,Add User and Car info ,26,Abandoned
+248,Add User and Car info ,80,Abandoned
+249,Add User and Car info ,20,Abandoned
+250,Add User and Car info ,27,Abandoned
+251,Add User and Car info ,37,Abandoned
+252,Add User and Car info ,75,Abandoned
+253,Add User and Car info ,67,Abandoned
+254,Add User and Car info ,66,Abandoned

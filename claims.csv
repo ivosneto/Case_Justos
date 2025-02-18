@@ -1,0 +1,32 @@
+Month_creation,Year_creation,Claim_ID,Claim_Type,Claim_reporter,Submission_Time_Minutes,Resolution_Time_Days,User_Satisfaction,Photos_filled_app
+3,2024,C0001,Collision,Customer,5,22,4,YES
+3,2024,C0001,Collision,3rd party,48,44,5,NO
+3,2024,C0001,Collision,3rd party,30,41,4,NO
+12,2024,C0002,Theft,Customer,4,5,5,Yes
+1,2024,C0004,Theft,Customer,"4,75",2,1,Yes
+8,2024,C0006,Collision,Customer,"4,2",6,5,YES
+7,2024,C0007,Theft,Customer,"3,2",8,5,Yes
+6,2024,C0008,Collision,Customer,"3,98",27,2,NO
+10,2024,C0009,Theft,Customer,"3,4",5,5,Yes
+9,2024,C0010,Collision,Customer,"4,9",10,4,YES
+12,2024,C0011,Theft,Customer,"4,4",14,2,NO
+7,2024,C0012,Collision,Customer,"4,65",15,4,YES
+7,2024,C0012,Collision,3rd party,20,22,5,NO
+12,2024,C0014,Theft,Customer,"4,98",7,4,Yes
+11,2024,C0015,Collision,Customer,"4,12",17,4,YES
+11,2024,C0016,Collision,Customer,"4,88",19,5,NO
+11,2024,C0017,Theft,Customer,"3,9",6,3,Yes
+12,2024,C0018,Collision,3rd party,14,23,4,NO
+12,2024,C0018,Collision,Customer,5,19,4,YES
+6,2024,C0019,Theft,Customer,2,15,2,NO
+4,2024,C0020,Collision,Customer,"5,6",7,5,YES
+1,2024,C0021,Robbery,Customer,"3,45",6,4,YES
+1,2024,C0022,Robbery,Customer,"4,33",7,5,YES
+4,2024,C0023,Collision,Customer,"6,7",20,5,YES
+3,2024,C0024,Collision,Customer,3,25,3,NO
+12,2024,C0024,Collision,3rd party,33,45,1,NO
+2,2024,C0025,Theft,Customer,"3,27",13,1,NO
+12,2024,C0026,Collision,Customer,"2,33",28,1,NO
+7,2024,C0027,Collision,Customer,2,33,1,NO
+7,2024,C0027,Collision,3rd party,25,67,1,NO
+1,2024,C0030,Robbery,Customer,"2,77",11,0,NO
