@@ -8,16 +8,22 @@ O objetivo do case foi entender e avaliar como ocorre a aquisição de clientes 
 
 🛠 Tecnologias Utilizadas
 
-Python para manipulação e análise de dados.
+-Python para manipulação e análise de dados.
 
-Pandas e NumPy para tratamento e exploração dos dados.
+-Pandas e NumPy para tratamento e exploração dos dados.
 
-Matplotlib para geração de visualizações.
+-Matplotlib para geração de visualizações.
 
 📊 Principais Insights
 
-Os gráficos foram fundamentais para visualizar padrões e tendências no comportamento dos clientes.
+-Os gráficos foram fundamentais para visualizar padrões e tendências no comportamento dos clientes.
 
-Foram identificadas oportunidades de melhoria no funil de aquisição.
+-Foram identificadas oportunidades de melhoria no funil de aquisição.
 
-Sugestões para otimização do processo de report foram apresentadas com base na análise dos dados.
+-Sugestões para otimização do processo de report foram apresentadas com base na análise dos dados.
+
+📢 Conclusão
+
+Este case permitiu uma análise aprofundada do processo de aquisição de clientes da Justos, trazendo insights valiosos sobre possíveis melhorias e otimizações no report. A visualização dos dados foi essencial para fundamentar as conclusões.
+
+
