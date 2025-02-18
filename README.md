@@ -1,6 +1,4 @@
-Case Justos - Análise do Processo de Aquisição de Clientes e Report
-
-Este repositório contém minha solução para o case da Justos, focado na análise do processo de aquisição de clientes e no fluxo de report da empresa.
+Case Justos - Análise do Processo de Aquisição de Clientes e no processo de reportar.
 
 🔍 Objetivo
 
